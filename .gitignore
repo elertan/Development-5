@@ -18,3 +18,7 @@
 *.pdb
 
 *.dll
+
+bin/
+obj/
+.vscode/
